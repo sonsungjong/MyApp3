@@ -18,7 +18,7 @@
         <ImageView
             android:id="@+id/logo1"
             android:layout_width="match_parent"
-            android:layout_height="408dp"
+            android:layout_height="414dp"
             app:srcCompat="@drawable/logo" />
 
         <LinearLayout

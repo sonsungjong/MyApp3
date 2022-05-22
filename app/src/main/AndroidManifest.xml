@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApp3">
         <activity
-            android:name=".MenuActivity"
+            android:name=".ItemActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
